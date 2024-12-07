@@ -1,6 +1,7 @@
 """ HAND TRACKING V1
-BY:S6R
-"""
+ BY :   S6R
+ IG: https://www.instagram.com/rzz.57_/
+ """
 import cv2
 import mediapipe as mp
 
